@@ -1,6 +1,9 @@
 <?php
 
 $pages = [
+    'server_configuration' => [
+        'server_config.htm' => 'Basic Configuration',
+    ],
     'user_input' => [
         'target_blank.htm' => 'Target Blank Vulnerability',
         'xss1.php'         => 'XSS Attacks',
