@@ -11,6 +11,8 @@ $pages = [
         'csrf1.php'        => 'CSRF Vulnerabilities',
         'csrf2.php'        => 'Puppies!!!',
         'sql_injection.php' => 'SQL Injection',
+        'hashes.php' => 'Hashing Passwords',
+        'inappropriate_data1.php' => 'Inappropriate Data',
     ],
 ];
 echo '<h1>Bad User Input</h1>';
@@ -25,3 +27,9 @@ foreach ($pages as $section => $type)
     echo '</li></ul>';
 }
 echo '</ul>';
+?>
+<style>
+    a:visited {
+        color: blue;
+    }
+</style>

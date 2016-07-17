@@ -1,7 +1,12 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="50cb6d4f-2c7c-4b69-aee1-5c5f02e60bc1" name="Default" comment="" />
+    <list default="true" id="50cb6d4f-2c7c-4b69-aee1-5c5f02e60bc1" name="Default" comment="">
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/user_input/hashes.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/user_input/inappropriate_data1.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/index.php" afterPath="$PROJECT_DIR$/index.php" />
+    </list>
     <ignored path="badcode.iws" />
     <ignored path=".idea/workspace.xml" />
     <ignored path=".idea/dataSources.local.xml" />
@@ -24,7 +29,7 @@
       <file leaf-file-name="target_blank.htm" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/user_input/target_blank.htm">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="-0.6666667">
+            <state vertical-scroll-proportion="0.0">
               <caret line="1" column="11" selection-start-line="1" selection-start-column="11" selection-end-line="1" selection-end-column="11" />
               <folding />
             </state>
@@ -34,7 +39,7 @@
       <file leaf-file-name="target_blank2.htm" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/user_input/target_blank2.htm">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="-1.3333334">
+            <state vertical-scroll-proportion="0.0">
               <caret line="2" column="55" selection-start-line="2" selection-start-column="55" selection-end-line="2" selection-end-column="55" />
               <folding />
             </state>
@@ -44,21 +49,38 @@
       <file leaf-file-name="index.php" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/index.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="-12.0">
-              <caret line="18" column="1" selection-start-line="18" selection-start-column="1" selection-end-line="18" selection-end-column="1" />
-              <folding>
-                <marker date="1468652947184" expanded="true" signature="536:645" placeholder="..." />
-                <marker date="1468652947184" expanded="true" signature="584:645" placeholder="..." />
-              </folding>
+            <state vertical-scroll-proportion="-23.333334">
+              <caret line="35" column="0" selection-start-line="35" selection-start-column="0" selection-end-line="35" selection-end-column="0" />
+              <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="server_config.htm" pinned="false" current-in-tab="true">
+      <file leaf-file-name="hashes.php" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/user_input/hashes.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="-10.666667">
+              <caret line="16" column="0" selection-start-line="16" selection-start-column="0" selection-end-line="16" selection-end-column="0" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="server_config.htm" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/server_configuration/server_config.htm">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.018480493">
+            <state vertical-scroll-proportion="0.0">
               <caret line="1" column="4" selection-start-line="1" selection-start-column="4" selection-end-line="1" selection-end-column="4" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="inappropriate_data1.php" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/user_input/inappropriate_data1.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="0.36960986">
+              <caret line="20" column="9" selection-start-line="20" selection-start-column="9" selection-end-line="20" selection-end-column="9" />
               <folding />
             </state>
           </provider>
@@ -67,10 +89,9 @@
       <file leaf-file-name="sql_injection.php" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/user_input/sql_injection.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="-25.333334">
+            <state vertical-scroll-proportion="0.0">
               <caret line="38" column="2" selection-start-line="38" selection-start-column="2" selection-end-line="38" selection-end-column="2" />
               <folding>
-                <element signature="e#857#881#0#HTML" expanded="true" />
                 <marker date="1468652603805" expanded="true" signature="93:128" placeholder="SELECT * FRO... users" />
                 <marker date="1468652603805" expanded="true" signature="93:129" placeholder="SELECT * FRO... users" />
                 <marker date="1468652603805" expanded="true" signature="93:133" placeholder="SELECT * FRO... users" />
@@ -80,7 +101,6 @@
                 <marker date="1468652603805" expanded="true" signature="93:202" placeholder="SELECT * FRO... users" />
                 <marker date="1468652603805" expanded="true" signature="93:204" placeholder="SELECT * FRO... users" />
                 <marker date="1468652603805" expanded="true" signature="595:611" placeholder="..." />
-                <marker date="1468652603805" expanded="true" signature="595:795" placeholder="..." />
               </folding>
             </state>
           </provider>
@@ -89,7 +109,7 @@
       <file leaf-file-name="xss1.php" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/user_input/xss1.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="-9.333333">
+            <state vertical-scroll-proportion="0.0">
               <caret line="14" column="1" selection-start-line="14" selection-start-column="1" selection-end-line="14" selection-end-column="1" />
               <folding>
                 <marker date="1468647228296" expanded="true" signature="209:330" placeholder="..." />
@@ -101,7 +121,7 @@
       <file leaf-file-name="csrf1.php" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/user_input/csrf1.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="-8.0">
+            <state vertical-scroll-proportion="0.0">
               <caret line="12" column="42" selection-start-line="12" selection-start-column="42" selection-end-line="12" selection-end-column="42" />
               <folding />
             </state>
@@ -111,24 +131,17 @@
       <file leaf-file-name="csrf2.php" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/user_input/csrf2.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="-0.0">
+            <state vertical-scroll-proportion="0.0">
               <caret line="0" column="57" selection-start-line="0" selection-start-column="57" selection-end-line="0" selection-end-column="57" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="xss2.htm" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/user_input/xss2.htm">
-          <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="-0.6666667">
-              <caret line="1" column="76" selection-start-line="1" selection-start-column="76" selection-end-line="1" selection-end-column="76" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
     </leaf>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
@@ -144,8 +157,10 @@
         <option value="$PROJECT_DIR$/user_input/index.php" />
         <option value="$PROJECT_DIR$/user_input/csrf2.php" />
         <option value="$PROJECT_DIR$/user_input/sql_injection.php" />
-        <option value="$PROJECT_DIR$/index.php" />
         <option value="$PROJECT_DIR$/server_configuration/server_config.htm" />
+        <option value="$PROJECT_DIR$/user_input/hashes.php" />
+        <option value="$PROJECT_DIR$/index.php" />
+        <option value="$PROJECT_DIR$/user_input/inappropriate_data1.php" />
       </list>
     </option>
   </component>
@@ -303,9 +318,9 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="59" y="24" width="1861" height="1056" extended-state="6" />
-    <editor active="true" />
+    <editor active="false" />
     <layout>
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.24879098" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.24879098" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
       <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
@@ -359,17 +374,67 @@
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/user_input/xss2.htm">
+    <entry file="file://$PROJECT_DIR$/user_input/target_blank.htm">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="-0.6666667">
-          <caret line="1" column="76" selection-start-line="1" selection-start-column="76" selection-end-line="1" selection-end-column="76" />
+        <state vertical-scroll-proportion="0.0">
+          <caret line="1" column="11" selection-start-line="1" selection-start-column="11" selection-end-line="1" selection-end-column="11" />
           <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/user_input/target_blank2.htm">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="2" column="55" selection-start-line="2" selection-start-column="55" selection-end-line="2" selection-end-column="55" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/index.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="15" column="2" selection-start-line="15" selection-start-column="2" selection-end-line="15" selection-end-column="2" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/server_configuration/server_config.htm">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="1" column="4" selection-start-line="1" selection-start-column="4" selection-end-line="1" selection-end-column="4" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/user_input/inappropriate_data1.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/user_input/sql_injection.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="38" column="2" selection-start-line="38" selection-start-column="2" selection-end-line="38" selection-end-column="2" />
+          <folding>
+            <marker date="1468652603805" expanded="true" signature="93:128" placeholder="SELECT * FRO... users" />
+            <marker date="1468652603805" expanded="true" signature="93:129" placeholder="SELECT * FRO... users" />
+            <marker date="1468652603805" expanded="true" signature="93:133" placeholder="SELECT * FRO... users" />
+            <marker date="1468652603805" expanded="true" signature="93:173" placeholder="SELECT * FRO... users" />
+            <marker date="1468652603805" expanded="true" signature="93:174" placeholder="SELECT * FRO... users" />
+            <marker date="1468652603805" expanded="true" signature="93:199" placeholder="SELECT * FRO... users" />
+            <marker date="1468652603805" expanded="true" signature="93:202" placeholder="SELECT * FRO... users" />
+            <marker date="1468652603805" expanded="true" signature="93:204" placeholder="SELECT * FRO... users" />
+            <marker date="1468652603805" expanded="true" signature="595:611" placeholder="..." />
+          </folding>
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/user_input/xss1.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="-9.333333">
+        <state vertical-scroll-proportion="0.0">
           <caret line="14" column="1" selection-start-line="14" selection-start-column="1" selection-end-line="14" selection-end-column="1" />
           <folding>
             <marker date="1468647228296" expanded="true" signature="209:330" placeholder="..." />
@@ -379,7 +444,49 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/user_input/csrf1.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="-8.0">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="12" column="42" selection-start-line="12" selection-start-column="42" selection-end-line="12" selection-end-column="42" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/user_input/csrf2.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="0" column="57" selection-start-line="0" selection-start-column="57" selection-end-line="0" selection-end-column="57" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/user_input/xss2.htm">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="1" column="76" selection-start-line="1" selection-start-column="76" selection-end-line="1" selection-end-column="76" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/user_input/xss2.htm">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="1" column="76" selection-start-line="1" selection-start-column="76" selection-end-line="1" selection-end-column="76" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/user_input/xss1.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="14" column="1" selection-start-line="14" selection-start-column="1" selection-end-line="14" selection-end-column="1" />
+          <folding>
+            <marker date="1468647228296" expanded="true" signature="209:330" placeholder="..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/user_input/csrf1.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
           <caret line="12" column="42" selection-start-line="12" selection-start-column="42" selection-end-line="12" selection-end-column="42" />
           <folding />
         </state>
@@ -395,7 +502,7 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/user_input/target_blank.htm">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="-0.6666667">
+        <state vertical-scroll-proportion="0.0">
           <caret line="1" column="11" selection-start-line="1" selection-start-column="11" selection-end-line="1" selection-end-column="11" />
           <folding />
         </state>
@@ -403,7 +510,7 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/user_input/target_blank2.htm">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="-1.3333334">
+        <state vertical-scroll-proportion="0.0">
           <caret line="2" column="55" selection-start-line="2" selection-start-column="55" selection-end-line="2" selection-end-column="55" />
           <folding />
         </state>
@@ -411,10 +518,9 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/user_input/sql_injection.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="-25.333334">
+        <state vertical-scroll-proportion="0.0">
           <caret line="38" column="2" selection-start-line="38" selection-start-column="2" selection-end-line="38" selection-end-column="2" />
           <folding>
-            <element signature="e#857#881#0#HTML" expanded="true" />
             <marker date="1468652603805" expanded="true" signature="93:128" placeholder="SELECT * FRO... users" />
             <marker date="1468652603805" expanded="true" signature="93:129" placeholder="SELECT * FRO... users" />
             <marker date="1468652603805" expanded="true" signature="93:133" placeholder="SELECT * FRO... users" />
@@ -424,26 +530,38 @@
             <marker date="1468652603805" expanded="true" signature="93:202" placeholder="SELECT * FRO... users" />
             <marker date="1468652603805" expanded="true" signature="93:204" placeholder="SELECT * FRO... users" />
             <marker date="1468652603805" expanded="true" signature="595:611" placeholder="..." />
-            <marker date="1468652603805" expanded="true" signature="595:795" placeholder="..." />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/index.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="-12.0">
-          <caret line="18" column="1" selection-start-line="18" selection-start-column="1" selection-end-line="18" selection-end-column="1" />
-          <folding>
-            <marker date="1468652947184" expanded="true" signature="536:645" placeholder="..." />
-            <marker date="1468652947184" expanded="true" signature="584:645" placeholder="..." />
           </folding>
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/server_configuration/server_config.htm">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.018480493">
+        <state vertical-scroll-proportion="0.0">
           <caret line="1" column="4" selection-start-line="1" selection-start-column="4" selection-end-line="1" selection-end-column="4" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/user_input/hashes.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-10.666667">
+          <caret line="16" column="0" selection-start-line="16" selection-start-column="0" selection-end-line="16" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/index.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-23.333334">
+          <caret line="35" column="0" selection-start-line="35" selection-start-column="0" selection-end-line="35" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/user_input/inappropriate_data1.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.36960986">
+          <caret line="20" column="9" selection-start-line="20" selection-start-column="9" selection-end-line="20" selection-end-column="9" />
           <folding />
         </state>
       </provider>
